@@ -1,6 +1,10 @@
 # Text_Editor-gui
- a functional text editor that allows you to do just that. We will use Swing to create a graphical user interface (GUI)
+ A functional text editor that allows you to do just that. I used Swing to create a graphical user interface (GUI)
+It has:
 
+*Open / Save files
+
+*Search with ReGex
 A project completed as part of the requirement for JetBrains Application Developer Certification.
 
 
