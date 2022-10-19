@@ -5,6 +5,7 @@ It has:
 *Open / Save files
 
 *Search with ReGex
+
 A project completed as part of the requirement for JetBrains Application Developer Certification.
 
 
@@ -12,8 +13,7 @@ A project completed as part of the requirement for JetBrains Application Develop
 
 You can download the source code and build with gradle or maven, or use your IDE
 
-## Contributing
-Pull requests are welcome. 
 
-## License
-None
+https://user-images.githubusercontent.com/101937186/196749220-7a97de89-3f98-46dc-974b-c553c3399572.mp4
+
+
